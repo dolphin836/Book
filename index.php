@@ -38,8 +38,8 @@ function found ($dir)
         $size     = $result->getSize();
         $exen     = $result->getExtension();
         $name     = substr($fullname, 0, strlen ($fullname) - strlen ($exen) - 1);
-        $http     = 'https://github.com/dolphin836/Book/raw/master/' . $category . '/' . $fullname;
-        $text    .= '| ' . $name . ' | ' . strtoupper($exen) . ' | ' . size($size) . ' | [下载](' . urlencode($http) . ') |' . PHP_EOL;
+        $http     = 'https://github.com/dolphin836/Book/raw/master/' . urlencode($category) . '/' . urlencode($fullname);
+        $text    .= '| ' . $name . ' | ' . strtoupper($exen) . ' | ' . size($size) . ' | [下载](' . $http . ') |' . PHP_EOL;
         
         echo  $name . PHP_EOL;
     }
