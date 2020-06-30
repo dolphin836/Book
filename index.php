@@ -38,10 +38,11 @@ function found ($dir)
         $size     = $result->getSize();
         $exen     = $result->getExtension();
         $name     = substr($fullname, 0, strlen ($fullname) - strlen ($exen) - 1);
-        $http     = 'https://github.com/dolphin836/Book/raw/master/' . $category . '/' . $fullname;
+        $http     = 'https://github.com/dolphin836/Book/raw/master/' . rawurlencode($category) . '/' . rawurlencode($fullname);
         $text    .= '| ' . $name . ' | ' . strtoupper($exen) . ' | ' . size($size) . ' | [下载](' . $http . ') |' . PHP_EOL;
         
         echo  $name . PHP_EOL;
+        // echo  $http . PHP_EOL;
     }
 }
 
