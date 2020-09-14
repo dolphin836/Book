@@ -2,6 +2,11 @@
 ## 政治类
 | 书 名 | 格 式 | 大 小 | 操 作 |
 | ---- | ---- | ---- | ---- |
+| 亚历西斯·德·托克维尔：旧制度与大革命 | PDF | 562.38 kb | [下载](https://github.com/dolphin836/Book/raw/master/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%BA%9A%E5%8E%86%E8%A5%BF%E6%96%AF%C2%B7%E5%BE%B7%C2%B7%E6%89%98%E5%85%8B%E7%BB%B4%E5%B0%94%EF%BC%9A%E6%97%A7%E5%88%B6%E5%BA%A6%E4%B8%8E%E5%A4%A7%E9%9D%A9%E5%91%BD.pdf) |
+| 亚历西斯·德·托克维尔：论美国的民主上卷 | PDF | 913.36 kb | [下载](https://github.com/dolphin836/Book/raw/master/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%BA%9A%E5%8E%86%E8%A5%BF%E6%96%AF%C2%B7%E5%BE%B7%C2%B7%E6%89%98%E5%85%8B%E7%BB%B4%E5%B0%94%EF%BC%9A%E8%AE%BA%E7%BE%8E%E5%9B%BD%E7%9A%84%E6%B0%91%E4%B8%BB%E4%B8%8A%E5%8D%B7.pdf) |
+| 亚历西斯·德·托克维尔：论美国的民主下卷 | PDF | 700.44 kb | [下载](https://github.com/dolphin836/Book/raw/master/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%BA%9A%E5%8E%86%E8%A5%BF%E6%96%AF%C2%B7%E5%BE%B7%C2%B7%E6%89%98%E5%85%8B%E7%BB%B4%E5%B0%94%EF%BC%9A%E8%AE%BA%E7%BE%8E%E5%9B%BD%E7%9A%84%E6%B0%91%E4%B8%BB%E4%B8%8B%E5%8D%B7.pdf) |
+| 卢梭：社会契约论 | PDF | 1.02 mb | [下载](https://github.com/dolphin836/Book/raw/master/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E5%8D%A2%E6%A2%AD%EF%BC%9A%E7%A4%BE%E4%BC%9A%E5%A5%91%E7%BA%A6%E8%AE%BA.pdf) |
+| 托马斯·潘恩：常识 | TXT | 111.92 kb | [下载](https://github.com/dolphin836/Book/raw/master/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E6%BD%98%E6%81%A9%EF%BC%9A%E5%B8%B8%E8%AF%86.txt) |
 | 薄熙来案庭审实录全文 | PDF | 1.02 mb | [下载](https://github.com/dolphin836/Book/raw/master/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E8%96%84%E7%86%99%E6%9D%A5%E6%A1%88%E5%BA%AD%E5%AE%A1%E5%AE%9E%E5%BD%95%E5%85%A8%E6%96%87.pdf) |
 ## 文学类
 | 书 名 | 格 式 | 大 小 | 操 作 |
